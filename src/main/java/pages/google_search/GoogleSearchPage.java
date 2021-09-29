@@ -22,11 +22,4 @@ public class GoogleSearchPage extends BasePage {
         return this;
     }
 
-    /**
-     * Check calc result
-     **/
-//    public void checkInput() {
-//        WebElement searchInput = driver.findElement(searchBar);
-//        waitElementIsVisible(searchInput);
-//    }
 }
