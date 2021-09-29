@@ -1,5 +1,3 @@
-# workshop_SDET_test
-
 <h4 align="center">
   Зададние для воркшопа по SDET
 </h4>
@@ -15,4 +13,5 @@
 
 
 Для запуска Allure отчета выполняем команду:
+
     $ allure serve target/allure-results
