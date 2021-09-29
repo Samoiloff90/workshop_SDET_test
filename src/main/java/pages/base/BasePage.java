@@ -25,12 +25,4 @@ public class BasePage {
     }
 
 
-//    /**
-//     * Wait for visibility element in DOM model
-//     **/
-//    public WebElement waitElementIsVisible(WebElement element){
-//        new WebDriverWait(driver, EXPLICIT_WAIT).until(ExpectedConditions.visibilityOf(element));
-//        return element;
-//    }
-
 }
