@@ -15,3 +15,10 @@
 Для запуска Allure отчета выполняем команду:
 
     $ allure serve target/allure-results
+    
+
+**Отчет Allure о пройденных тестах:**
+![allure1](https://user-images.githubusercontent.com/50422809/135213032-d746703f-a2cc-4ea8-a5c9-781e063f6473.jpeg)
+
+
+![allure2](https://user-images.githubusercontent.com/50422809/135213254-bcea2e14-b546-4a68-ad82-91ff5ae336f7.jpeg)
